@@ -1,0 +1,18 @@
+<OverlayData>
+	<MarkerCategory name="szg_ss" DisplayName="Silent Surf Leap Guide">
+		<MarkerCategory name="start" DisplayName="Start Location" iconFile="Data/Icons/circle.png"/>
+		<MarkerCategory Name="aim" DisplayName="Aim Location" iconFile="Data/Icons/leap.png" />
+	</MarkerCategory>
+	<POIs>
+		<POI MapID="1500" xpos="-68.1611" ypos="100.537" zpos="93.2083" type="szg_ss.start" GUID="NwVIPkFSX0u9FGGC5O6zUQ=="/>
+		<POI MapID="1500" xpos="-76.3968" ypos="103.144" zpos="141.24" type="szg_ss.aim" GUID="tr9tjNEGxkGb7fqflixV8w=="/>
+		<POI MapID="1500" xpos="-89.4562" ypos="100.537" zpos="90.6285" type="szg_ss.start" GUID="vrLH7kN9ZEST+YyxYlg2ow=="/>
+		<POI MapID="1500" xpos="-132.322" ypos="106.214" zpos="111.851" type="szg_ss.aim" GUID="D8xYDwdd7kGMBnnNCqjGkg=="/>
+		<POI MapID="1500" xpos="-99.9633" ypos="100.537" zpos="67.5797" type="szg_ss.start" GUID="VQBSyn50Ykm55unMXeyhPQ=="/>
+		<POI MapID="1500" xpos="-142.389" ypos="108.4" zpos="64.4624" type="szg_ss.aim" GUID="UPIjO/hXoUmRPu2uOkRePA=="/>
+		<POI MapID="1500" xpos="-89.3894" ypos="100.537" zpos="47.7588" type="szg_ss.start" GUID="QOLPBOLriUWkocgJYT1m4A=="/>
+		<POI MapID="1500" xpos="-107.946" ypos="104.264" zpos="1.4305" type="szg_ss.aim" GUID="ohNXNFaJCEudjaBHfpYDpA=="/>
+		<POI MapID="1500" xpos="-61.7826" ypos="100.537" zpos="48.7304" type="szg_ss.start" GUID="HeMGWq7I50KwIj7EpeoWog=="/>
+		<POI MapID="1500" xpos="-28.4939" ypos="105.658" zpos="14.3499" type="szg_ss.aim" GUID="1hpRfLxAv0mGD8JWTG0MOg=="/>
+	</POIs>
+</OverlayData>
